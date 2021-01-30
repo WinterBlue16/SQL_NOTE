@@ -1,2 +1,3 @@
 -- 테이블 전체 조회하기
-SELECT * FROM books;
+-- 계정에서 만든 모든 테이블을 조회할 수 있다
+SELECT * FROM TAB;
