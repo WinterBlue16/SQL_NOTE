@@ -11,7 +11,7 @@ CREATE TABLE books(
 INSERT INTO books
   (id, title, author, published, created)
   VALUES
-  (1, 'little prince', 'Saint Exupery', 1943, SYSDATE);
+  (1, 'Little prince', 'Saint Exupery', 1943, SYSDATE);
 
 INSERT INTO books
   (id, title, author, published, created)
